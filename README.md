@@ -21,7 +21,7 @@ FFmpeg:
 sudo apt install ffmpeg
 ```
 
-##Usage
+## Usage
 Ejecucion:
 1. Empezando por la funcion por defecto Main:
 ```bash
@@ -32,7 +32,7 @@ python3 jsbach.py input.jsb
 python3 jsbach.py input.jsb Nombre_Funcion
 ```
 
-##Detalles
+## Detalles
 Si el programa no hace uso de la instruccion de reproduccion "<:>" puede pasar que los ficheros de salida no se puedan reproducir.
 
 Al compilar un programa saldra muchos mensages. Estos pueden ser avisos de Lilypond, ffmpeg y timidity. Los outputs de texto generados por la instruccion <!> estan al principio de todo.
